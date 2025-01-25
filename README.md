@@ -2,4 +2,4 @@
 
 this is my first repo
 <br>
-Author - Aditya (PICT)
+Author - Adity (PICT)
